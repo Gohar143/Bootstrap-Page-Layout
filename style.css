@@ -1,0 +1,17 @@
+body{
+    color: black;
+}
+.container-fluid{
+    border: 5px solid black;
+    margin-top: 20px;
+}
+.container{
+    border: 5px solid black;
+    margin-top: 20px;
+}
+.row{
+    border: 3px solid red;
+}
+.col , .col-xl , .col-lg , .col-md , .col-sm {
+    border: 2px solid green;
+}
